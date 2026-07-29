@@ -12,7 +12,7 @@ MT6789 (Helio G99) platform.
 
 ```bash
 # Sync OrangeFox 12.1 sources (orangefox_sync script), then:
-git clone https://github.com/dark-z-666/twrp-device_infinix_Infinix-X676C -b fox_12.1 device/infinix/X676C
+git clone https://github.com/god-dark-z/ofox-device_infinix_Infinix-X676C -b ofox device/infinix/X676C
 
 # Fetch proprietary decryption blobs (also runs from vendorsetup.sh):
 bash device/infinix/X676C/prepare-blobs.sh
