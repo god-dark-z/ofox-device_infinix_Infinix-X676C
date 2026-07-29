@@ -35,4 +35,4 @@ fastboot flash vendor_boot out/target/product/X676C/vendor_boot.img
 fastboot reboot recovery
 ```
 
-The TWRP-only variant of this tree lives on the `twrp_12.1` branch.
+The TWRP variant lives in the sibling repo `god-dark-z/twrp-device_infinix_Infinix-X676C` (branch `twrp`).
